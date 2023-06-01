@@ -1,0 +1,15 @@
+---
+layout: default
+title: My Work
+---
+<h1>My Work</h1>
+
+<ul>
+  {% for samples in site.samples %}
+    <li>
+      <h2><a href="{{ author.url }}"></a>{{ sample.name }}</h2>
+      <h3>{{ sample.position }}</h3>
+      <p>{{ sample.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
