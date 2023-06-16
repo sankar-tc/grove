@@ -20,3 +20,5 @@ defaults:
 
 plugins:
   - jekyll-sitemap
+  
+theme: minima
