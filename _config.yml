@@ -4,17 +4,17 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "/grove"
       type: "samples"
     values:
       layout: "sample"
   - scope:
-      path: ""
+      path: "/grove"
       type: "posts"
     values:
       layout: "post"
   - scope:
-      path: ""
+      path: "/grove"
     values:
       layout: "default"
 
