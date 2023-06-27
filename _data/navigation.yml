@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /grove/
 - name: About
-  link: /about.html
+  link: /grove/about.html
 - name: Blog
-  link: /blog.html
+  link: /grove/blog.html
 - name: My Work
-  link: /mywork.html
+  link: /grove/mywork.html
