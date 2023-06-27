@@ -1,4 +1,7 @@
 baseurl: /grove
+
+permalink: date
+
 collections:
   samples:
     output: true
