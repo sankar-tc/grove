@@ -1,20 +1,21 @@
+baseurl: /grove
 collections:
   samples:
     output: true
 
 defaults:
   - scope:
-      path: "/grove"
+      path: ""
       type: "samples"
     values:
       layout: "sample"
   - scope:
-      path: "/grove"
+      path: ""
       type: "posts"
     values:
       layout: "post"
   - scope:
-      path: "/grove"
+      path: ""
     values:
       layout: "default"
 
