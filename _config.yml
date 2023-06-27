@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sankar's pages
+title: 
 email: thiyagasankar.v@gmail.com
 description: 
   Welcome to my website! I am a seasoned technical documentation leader proficient in technical writing, UX writing, project management, and customer education. With my expertise, I deliver clear, concise, and user-friendly documentation solutions that empower both clients and end-users. Let me help you streamline your projects and enhance your customers' experience through effective communication and comprehensive documentation.
